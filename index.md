@@ -6,7 +6,7 @@ My hobbies include playing guitar, violin and graphic designing. I love reading 
 
 ### Background
 
-I was born in Kolkata and raised in Kolkata, Serampore a town in Hooghly District. I attended **Aditya Academy** Junior as my pre-primary school and then joined **Stepping Stone School** in my District and completed my Secondary Education. I joined **Don Bosco School**, Liluah for my Senior-Secondary Education. 
+I was born in Kolkata and raised in Kolkata as well as Serampore a town in Hooghly District. I attended **Aditya Academy** Junior as my pre-primary school and then joined **Stepping Stone School** in my District and completed my Secondary Education. I joined **Don Bosco School**, Liluah for my Senior-Secondary Education. 
 
 ```markdown
 Syntax highlighted code block
