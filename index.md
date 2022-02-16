@@ -9,23 +9,19 @@ My hobbies include playing guitar, violin and graphic designing. I love reading 
 
 I was born in Kolkata and raised in Kolkata as well as Serampore a town in Hooghly District. I attended **Aditya Academy** Junior as my pre-primary school and then joined **Stepping Stone School** in my District and completed my Secondary Education. I joined **Don Bosco School**, Liluah for my Senior-Secondary Education. 
 
-```markdown
-Syntax highlighted code block
+## Projects Undertaken
 
-# Header 1
-## Header 2
-### Header 3
+### Unsupervised
 
-- Bulleted
-- List
+1. TVF
+2. Computer Vision
 
-1. Numbered
-2. List
+### Supervised
 
-**Bold** and _Italic_ and `Code` text
+Will be added soon...
 
-[Link](url) and ![Image](src)
-```
-### Contact
+
+
+## Contact
 
 Want to reach out to me? Leave an email and I shall reply as soon as possible - [gharjun69@gmail.com](url)
