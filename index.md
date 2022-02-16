@@ -1,5 +1,5 @@
 ## About Me
-<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="400" height="400" img align="right" padding: "5px"/>
+<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="400" height="400" img align="right" padding: 5px/>
 
 I am Arjun Ghosh, an Undergrad at **University of Calcutta**, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. 
 
