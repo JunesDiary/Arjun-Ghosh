@@ -18,7 +18,7 @@ I was born in Kolkata and raised in Kolkata as well as Serampore a town in Hoogh
 
 ### Supervised
 
-Will be added soon...
+Will be added soon ...
 
 
 
