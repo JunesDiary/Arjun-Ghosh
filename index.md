@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="200" height="200" img align="left"/>
+<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="200" height="200" img align="left" padding = 5/>
 
 ## About Me
 
@@ -14,7 +14,7 @@ I was born in Kolkata and raised in Kolkata as well as Serampore a town in Hoogh
 
 ### Unsupervised
 
-1. TVF
+1. Train Velocity Finder 
 2. Computer Vision
 
 ### Supervised
