@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+About Me
+I am Arjun Ghosh an Undergrad at University of Calcutta, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. My hobbies include playing guitar, violin and graphic designing. I love reading books especially the ones based on Space and Science Fiction.
 
-You can use the [editor on GitHub](https://github.com/JunesDiary/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
