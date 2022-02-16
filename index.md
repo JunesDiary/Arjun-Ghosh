@@ -1,8 +1,8 @@
-About Me
+#About Me
 I am Arjun Ghosh an Undergrad at University of Calcutta, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. My hobbies include playing guitar, violin and graphic designing. I love reading books especially the ones based on Space and Science Fiction.
 
 
-Markdown
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
