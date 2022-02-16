@@ -1,12 +1,12 @@
 ## About Me
 
-I am Arjun Ghosh an Undergrad at University of Calcutta, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. 
+I am Arjun Ghosh, an Undergrad at **University of Calcutta**, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. 
 
 My hobbies include playing guitar, violin and graphic designing. I love reading books especially the ones based on Space and Science Fiction.
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was born in Kolkata and raised in Kolkata, Serampore a town in Hooghly District. I attended **Aditya Academy** Junior as my pre-primary school and then joined **Stepping Stone School** in my District and completed my Secondary Education. I joined **Don Bosco School**, Liluah for my Senior-Secondary Education. 
 
 ```markdown
 Syntax highlighted code block
