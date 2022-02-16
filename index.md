@@ -1,5 +1,15 @@
+.page {
+
+  @include breakpoint($large) {
+    float: right;
+    width: span(8 of 12);
+    margin-right: span(2 of 12);
+    padding-left: gutter(0.5 of 12);
+    padding-right: gutter(2 of 12);
+  }
+
 ## About Me
-<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="400" height="400" img align="right" padding-left: 12/>
+<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="400" height="400" img align="right"/>
 
 I am Arjun Ghosh, an Undergrad at **University of Calcutta**, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. 
 
