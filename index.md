@@ -1,9 +1,10 @@
 ## About Me
-<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="200" height="200" img align="right"/>
 
 I am Arjun Ghosh, an Undergrad at **University of Calcutta**, pursuing B.Tech in Electronics and Communication Engineering (ECE). I love exploring and reading more about Nano-Technology (Electronics and Optics) and Astronomy. 
 
 My hobbies include playing guitar, violin and graphic designing. I love reading books especially the ones based on Space and Science Fiction.
+
+<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="200" height="200" img align="center"/>
 
 ### Background
 
