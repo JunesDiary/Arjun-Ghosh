@@ -21,7 +21,6 @@ I was born in Kolkata and raised in Kolkata as well as Serampore a town in Hoogh
 Will be added soon ...
 
 
-
 ## Contact
 
 Want to reach out to me? Leave an email and I shall reply as soon as possible - [gharjun69@gmail.com](url)
