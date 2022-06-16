@@ -1,2 +1,2 @@
 # site
-Demo site build using GitHub Pages
+Want to contribute to society with the power of technology
