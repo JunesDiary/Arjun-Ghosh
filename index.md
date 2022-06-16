@@ -23,15 +23,9 @@ I was born in Kolkata and raised in Kolkata as well as Serampore, a town in Hoog
 ### Supervised
 
 1. Supervisor: NVIDIA and CDAC [GPU Acceleration and HPC applications](https://github.com/openhackathons-org/gpubootcamp)
-
-
-
-Will be added soon ...
+2. More will be added soon ...
 
 
 ## Contact
 
 Want to reach out to me? Leave an email and I shall reply as soon as possible - [arjunghosh@ieee.org](url)
-
-
-<img src="https://user-images.githubusercontent.com/76748505/154213656-294c44dd-2f82-45e0-a3db-bf26e4bf9010.jpeg" width="200" height="200" img align="left" padding = 5/>
