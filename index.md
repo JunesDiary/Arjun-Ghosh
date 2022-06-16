@@ -22,7 +22,7 @@ I was born in Kolkata and raised in Kolkata as well as Serampore, a town in Hoog
 
 ### Supervised
 
-1. Supervisor: NVIDIA and CDAC [GPU Acceleration and HPC applications](https://github.com/openhackathons-org/gpubootcamp)
+1. Supervisor: NVIDIA and CDAC// Topic: [GPU Acceleration and HPC applications](https://github.com/openhackathons-org/gpubootcamp)
 2. More will be added soon ...
 
 
